@@ -1,4 +1,4 @@
-# ligolo-ng Setup
+# ligolo-ng setup
 
 ## Preparation
 
