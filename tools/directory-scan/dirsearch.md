@@ -1,4 +1,4 @@
-# Directory Enumeration with Dirsearch Cheatsheet
+# Directory Enumeration with dirsearch
 
 ## Common Parameters
 
